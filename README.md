@@ -134,7 +134,7 @@ GitHub Pages due to its ability to host static websites.
 
 - Visit the [GitHub Pages Documentation](https://docs.github.com/en/pages) to gain a deeper understanding of its features for hosting static websites.
 
-- Visit the [Jekyll Official Documentation](https://jekyllrb.com/docs/) to gain a deeper understand of Jekyll, the static site generator used by GitHub Pages.
+- Visit the [Jekyll Official Documentation](https://jekyllrb.com/docs/) to gain a deeper understanding of Jekyll, the static site generator used by GitHub Pages.
 
 
 ## Author and Acknowledgments
