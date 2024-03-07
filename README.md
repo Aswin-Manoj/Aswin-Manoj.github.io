@@ -138,13 +138,28 @@ GitHub Pages due to its ability to host static websites.
 
 
 ## Author and Acknowledgments
+ I want to thank
 
+- Andrew Etter for insights on DVCS, static web pages, and markup languages from Modern Technical Writing.
 
+- Daattali for their beautiful-jekyll theme, enhancing the aesthetics of the hosted resume.
 
+- Shaun Paraplammoottil Cheiryan and Zach Wiebe for their valuable feedback on this README.
+
+- And finally, professor Stewart for guidance and support throughout the development of this README. 
 
 ## FAQs
 
+Q1) Why is Markdown better than a word processor?
+> bla bla
 
+Q2) Why is my resume not showing up?
+> bla bla
+
+
+
+
+Markdown, GhostWriter, GitHub Pages, Jekyll (Static Webpage generator used by GitHub Pages, Animated GIFS maker (https://ezgif.com/maker)
 
 
 
