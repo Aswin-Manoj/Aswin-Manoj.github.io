@@ -112,7 +112,7 @@ which alligns with Etter's idea on creating visually appealing websites.
 >    
 > When you open the link, your Markdown resume should look similar to this.
 >
-> ![ezgif com-animated-gif-maker](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/26f8e971-8470-46c2-8790-0d0e3a0e9c7c)
+> 
 
 ```
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of static websites because of 
