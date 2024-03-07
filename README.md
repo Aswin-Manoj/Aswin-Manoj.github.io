@@ -1,6 +1,6 @@
 # Hosting a Markdown Resume on GitHub Pages
 
-## The Purpose
+## The goal of this README
 
 After going through this README, it will have served two purposes: 
 
@@ -16,7 +16,7 @@ After going through this README, it will have served two purposes:
 ~~~
 In his book "Modern Technical Writing", Andrew Etter emphasizes the use of lightweight markup languages,
 such as Markdown ,due to their simplicity and readability. By using Markdown for your resume, you make
-your resume accessible and easily editable. 
+it accessible and easily editable throughtout different plaforms. 
 
 Markdown's easy to understand syntax improves readability according to Andrew Etter. He mentions in his
 book that content should be easily understandable in its raw or original form, and by using Markdown we
@@ -49,7 +49,7 @@ supports efficient version control and collaboration.
 > ![Screenshot 2024-03-07 083415](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/07690590-9bbd-4627-9d27-524b9975db4c)
 >
 > 2. Enter your GitHub user name along with ".github.io" in the "Repository Name* input box.
->    *For example: if my GitHub user name is aswinm20 , then I will name my repository, "aswinm20.github.io".*
+>    ***For example**: if my GitHub user name is aswinm20 , then I will name my repository, "aswinm20.github.io".*
 >
 > ![Screenshot 2024-03-07 084251](https://github.com/Aswin-Manoj/Aswin-Manoj.github.io/assets/131378919/9e3dd4eb-1346-4e99-8d6a-1a89755eaab4)
 >
@@ -108,7 +108,7 @@ which alligns with Etter's idea on creating visually appealing websites.
 
 **5. Open your hosted resume using a url link.**
 > 1. Search the url "[your GitHub username].github.io" to view your hosted resume. <br>
->    *For example: If my GitHub username is aswinm20 , then I will search the url, aswinm20.github.io*
+>    ***For example**: If my GitHub username is aswinm20 , then I will search the url, aswinm20.github.io*
 >    
 > When you open the link, your Markdown resume should look similar to this.
 >
@@ -144,17 +144,26 @@ GitHub Pages due to its ability to host static websites.
 
 - Daattali for their beautiful-jekyll theme, enhancing the aesthetics of the hosted resume.
 
-- Shaun Paraplammoottil Cheiryan and Zach Wiebe for their valuable feedback on this README.
+- Shaun Paraplammoottil Cheiryan and Zack Wiebe for their valuable feedback on this README.
 
 - And finally, professor Stewart for guidance and support throughout the development of this README. 
 
 ## FAQs
 
 Q1) Why is Markdown better than a word processor?
-> bla bla
+> Markdown is preferred over a word processor for several reasons:
+>
+> - According to Andrew Etter in his book, "Modern Technical Writing" , he mentions how markup languages like Markdown uses straightforward and simple syntax which is easy to read. This helps to focuss on the content rather than worry about the formatting.
+>
+> - He also mentions in his book that Markdown files are platform-independent due it being primarly text-based. According to Andrew, a word processor will be useful for resumes, but unsuitable for technical documentation because, it does not work well with version control and HTML export. However, according to him, this is not the case with Markdown as it can handle the two latter conditions.
 
 Q2) Why is my resume not showing up?
-> bla bla
+> If your hosted resume is not appearing, consider the following troubleshooting steps:
+>
+> - ***Resume File Name***: Ensure your resume file name is "index.md" as this crucial for GitHub Pages to identify it as the main page. <br> 
+> - ***Theme Settings*** : Ensure the file that specfies your theme has the name "_config.yml" and also check that there are no spelling mistakes in your theme selection. <br>
+> - ***Wait for Changes*** : Any changes made to the content of your resume will take time to reflect on the url. Give it some time and refresh the page.
+> - ***Markdown Syntax Errors*** : Ensure that your Markdown resume has proper syntax.
 
 
 
